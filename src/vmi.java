@@ -1,1 +1,3 @@
-class main {}
+class Vmi
+  
+  public void main {}
